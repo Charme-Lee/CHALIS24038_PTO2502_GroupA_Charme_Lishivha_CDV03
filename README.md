@@ -6,40 +6,40 @@
 
 This project involves creating a professional resume tailored for software development roles, with a focus on showcasing technical skills, experience, and education in a clear and impactful way. The goal is to present a refined CV that aligns with industry expectations, particularly for front-end development using technologies like React.js, HTML, CSS and JavaScript. The resume has been formatted for clarity and professionalism, highlighting qualifications that appeal to hiring managers.
 
-### ✨ Project Specifications
+## ✨ Project Specifications
 
-1. 📞 **Contact Information**:
+### 1. 📞 **Contact Information**:
 
-   Relevant contact details have been included for direct communication, such as name, location, phone number, LinkedIn, GitHub, and email address.
+Relevant contact details have been included for direct communication, such as name, location, phone number, LinkedIn, GitHub, and email address.
 
-2. 🧑‍💻 **Professional Experience**:
+### 2. 🧑‍💻 **Professional Experience**:
 
 - Old Mutual - Credit management and risk analysis.
 - Absa - Collections life cycle and Risk appetite framework.
 - FNB - Insurance and pricing analysis
 - ...etc
 
-3. 🛠️ **Technical Skills**:
+### 3. 🛠️ **Technical Skills**:
 
-   💻 Languages: Python, SAS, SQL, HTML, CSS & JavaScript
+💻 Languages: Python, SAS, SQL, HTML, CSS & JavaScript
 
-   🧱 Frameworks: React.js & Tailwind css
+🧱 Frameworks: React.js & Tailwind css
 
-   🧰 Tools: Github, Vscode & Git
+🧰 Tools: Github, Vscode & Git
 
-   ⚙️ Skills: Collaboratiion, Agile mthodology, Debugging...
+⚙️ Skills: Collaboratiion, Agile mthodology, Debugging...
 
-   🎓 Education and certifications
+🎓 Education and certifications
 
-   - Codespace Academy: Software Development
-   - Wits University: BSC honors in Math
-   - Wits University: BSC degree in Math
-     degree
-   - Tefl certificate 120hrs
+- Codespace Academy: Software Development
+- Wits University: BSC honors in Math
+- Wits University: BSC degree in Math
+  degree
+- Tefl certificate 120hrs
 
-4. 📁 **Projects Portfolio**:
+### 4. 📁 **Projects Portfolio**:
 
-   Kanban project is included, along with a GitHub link to all other repositories.
+Kanban project is included, along with a GitHub link to all other repositories.
 
 ## 📖 Usage Examples
 
@@ -58,7 +58,7 @@ To view the resume, please click the link below under the "Link to Resume" secti
 
 ⚡Set to “View only” – no sign-in required.
 
-### 🔗 Link to Resume
+## 🔗 Link to Resume
 
 Access to the google Docs living resume:
 
