@@ -17,27 +17,25 @@ Relevant contact details have been included for direct communication, such as na
 - Old Mutual - Credit management and risk analysis.
 - Absa - Collections life cycle and Risk appetite framework.
 - FNB - Insurance and pricing analysis
-- ...etc
 
 ### 3. 🛠️ **Technical Skills**:
 
-💻 Languages: Python, SAS, SQL, HTML, CSS & JavaScript
+    💻 Languages: Python, SAS, SQL, HTML, CSS & JavaScript
 
-🧱 Frameworks: React.js & Tailwind css
+    🧱 Frameworks: React.js & Tailwind css
 
-🧰 Tools: Github, Vscode & Git
+    🧰 Tools: Github, Vscode & Git
 
-⚙️ Skills: Collaboratiion, Agile mthodology, Debugging...
+    ⚙️ Skills: Collaboratiion, Agile mthodology, Debugging...
 
-🎓 Education and certifications
+    🎓 Education and certifications
 
-- Codespace Academy: Software Development
-- Wits University: BSC honors in Math
-- Wits University: BSC degree in Math
-  degree
-- Tefl certificate 120hrs
+     💡 Codespace Academy: Software Development
+     💡 Wits University: BSC honors in Math
+     💡 Wits University: BSC degree in Math
+     💡 Tefl certificate 120hrs
 
-### 4. 📁 **Projects Portfolio**:
+### 4. 💼 **Projects Portfolio**:
 
 Kanban project is included, along with a GitHub link to all other repositories.
 
