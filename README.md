@@ -8,40 +8,58 @@ This project involves creating a professional resume tailored for software devel
 
 ### ✨ Project Specifications
 
-1. **Contact Information**:
+1. 📞 **Contact Information**:
 
    Relevant contact details have been included for direct communication, such as name, location, phone number, LinkedIn, GitHub, and email address.
 
-2. **Professional Experience**:
+2. 🧑‍💻 **Professional Experience**:
 
-   - Old Mutual - Credit management and risk analysis.
-   - Absa - Collections life cycle and Risk appetite framework.
-   - FNB - Insurance and pricing analysis
-   - ...etc
+- Old Mutual - Credit management and risk analysis.
+- Absa - Collections life cycle and Risk appetite framework.
+- FNB - Insurance and pricing analysis
+- ...etc
 
-3. **Technical Skills**:
+3. 🛠️ **Technical Skills**:
 
-- Languages: Python, SAS, SQL, HTML, CSS & JavaScript
-- Frameworks: React.js & Tailwind css
-- Tools: Github, Vscode & Git
-- Skills: Collaboratiion, Agile mthodology, Debugging...
-- Education and certifications
-  - Codespace Academy: Software Development
-  - Wits University: BSC honors in Math
-  - Wits University: BSC degree in Math
-    degree
-  - Tefl certificate 120hrs
+   💻 Languages: Python, SAS, SQL, HTML, CSS & JavaScript
 
-5. **Projects Portfolio**:
+   🧱 Frameworks: React.js & Tailwind css
+
+   🧰 Tools: Github, Vscode & Git
+
+   ⚙️ Skills: Collaboratiion, Agile mthodology, Debugging...
+
+   🎓 Education and certifications
+
+   - Codespace Academy: Software Development
+   - Wits University: BSC honors in Math
+   - Wits University: BSC degree in Math
+     degree
+   - Tefl certificate 120hrs
+
+4. 📁 **Projects Portfolio**:
+
    Kanban project is included, along with a GitHub link to all other repositories.
+
+## 📖 Usage Examples
+
+1. Job Applications – To showcase acquired skills and projects to employers.
+2. Networking – Share with mentors or contacts for referrals or feedback.
+3. Freelance Work – Present abilities to potential clients.
+4. Bootcamp Support – Submit for job placement help or mentor reviews.
+5. Interviews – Use to prepare and highlight key strengths.
+6. Online Profiles – Build out LinkedIn or GitHub bios from CV content.
 
 ## ✅ Usage instructions
 
 **Resume Access Instructions:**
 
-To view the resume, please click the link below under the .
-Set to “View only” – no sign-in required.
+To view the resume, please click the link below under the "Link to Resume" section.
 
-### Link to Resume
+⚡Set to “View only” – no sign-in required.
 
-[Your Google Docs Resume](<insert your Google Docs link here>)
+### 🔗 Link to Resume
+
+Access to the google Docs living resume:
+
+👉 [Charme Lishivha Resume](https://docs.google.com/document/d/16JqL4fNBkSaP_2_p9GadSWGQC5RS9tXCh-zQctsvSvw/edit?usp=sharing)
