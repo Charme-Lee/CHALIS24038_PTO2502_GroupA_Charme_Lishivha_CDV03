@@ -2,9 +2,9 @@
 
 💡*This project contains the resume of Charme Lishivha, submitted as part of the CDV03 project for CodeSpace Academy.*
 
-## Project Overview
+## 📋 Project Overview
 
-This project involves creating a professional resume tailored for software development roles, with a focus on showcasing technical skills, experience, and education in a clear and impactful way. The goal is to present a refined CV that aligns with industry expectations, particularly for front-end development using technologies like React.js. The resume has been formatted for clarity and professionalism, highlighting qualifications that appeal to hiring managers
+This project involves creating a professional resume tailored for software development roles, with a focus on showcasing technical skills, experience, and education in a clear and impactful way. The goal is to present a refined CV that aligns with industry expectations, particularly for front-end development using technologies like React.js, HTML, CSS and JavaScript. The resume has been formatted for clarity and professionalism, highlighting qualifications that appeal to hiring managers.
 
 ### Practical Steps for the Project
 
@@ -25,5 +25,3 @@ This project involves creating a professional resume tailored for software devel
 ### Link to Resume
 
 [Your Google Docs Resume](<insert your Google Docs link here>)
-
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
