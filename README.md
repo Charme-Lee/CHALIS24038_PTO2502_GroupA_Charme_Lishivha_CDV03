@@ -6,21 +6,41 @@
 
 This project involves creating a professional resume tailored for software development roles, with a focus on showcasing technical skills, experience, and education in a clear and impactful way. The goal is to present a refined CV that aligns with industry expectations, particularly for front-end development using technologies like React.js, HTML, CSS and JavaScript. The resume has been formatted for clarity and professionalism, highlighting qualifications that appeal to hiring managers.
 
-### Practical Steps for the Project
+### ✨ Project Specifications
 
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
+1. **Contact Information**:
 
-### Submission Guidelines
+   Relevant contact details have been included for direct communication, such as name, location, phone number, LinkedIn, GitHub, and email address.
 
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+2. **Professional Experience**:
+
+   - Old Mutual - Credit management and risk analysis.
+   - Absa - Collections life cycle and Risk appetite framework.
+   - FNB - Insurance and pricing analysis
+   - ...etc
+
+3. **Technical Skills**:
+
+- Languages: Python, SAS, SQL, HTML, CSS & JavaScript
+- Frameworks: React.js & Tailwind css
+- Tools: Github, Vscode & Git
+- Skills: Collaboratiion, Agile mthodology, Debugging...
+- Education and certifications
+  - Codespace Academy: Software Development
+  - Wits University: BSC honors in Math
+  - Wits University: BSC degree in Math
+    degree
+  - Tefl certificate 120hrs
+
+5. **Projects Portfolio**:
+   Kanban project is included, along with a GitHub link to all other repositories.
+
+## ✅ Usage instructions
+
+**Resume Access Instructions:**
+
+To view the resume, please click the link below under the .
+Set to “View only” – no sign-in required.
 
 ### Link to Resume
 
